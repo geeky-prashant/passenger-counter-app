@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(245, 238, 238);
+  background-size: cover;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 200px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+  margin-top: 40px;
+}
+
+button {
+  border: none;
+  padding: 10px 0;
+  color: #fff;
+  font-weight: bold;
+  width: 200px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#increment-btn {
+  background: darkred;
+}
+
+#save-btn {
+  background: darkgreen;
+}
